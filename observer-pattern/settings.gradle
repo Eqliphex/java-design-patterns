@@ -1,2 +1,4 @@
 rootProject.name = 'observer-pattern'
+include 'derek-banas'
+include 'head-first'
 
